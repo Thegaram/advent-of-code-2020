@@ -1,0 +1,11 @@
+[package]
+name = "advent-of-code-2020"
+version = "0.1.0"
+authors = ["Péter Garamvölgyi <peter.garamvolgyi@hotmail.com>"]
+edition = "2018"
+
+[[bin]]
+name = "day-01"
+path = "day-01/main.rs"
+
+[dependencies]
