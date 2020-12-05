@@ -184,8 +184,8 @@ fn main() {
         }
     }
 
-    println!("problem #1 = {:?}", count_1);
-    println!("problem #2 = {:?}", count_2);
+    println!("puzzle #1 = {:?}", count_1);
+    println!("puzzle #2 = {:?}", count_2);
 }
 
 #[cfg(test)]
