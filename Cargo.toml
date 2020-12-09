@@ -36,6 +36,10 @@ path = "day-07/main.rs"
 name = "day-08"
 path = "day-08/main.rs"
 
+[[bin]]
+name = "day-09"
+path = "day-09/main.rs"
+
 [dependencies]
 maplit = "1.0.2"
 text_io = "0.1.8"
