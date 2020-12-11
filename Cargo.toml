@@ -40,7 +40,12 @@ path = "day-08/main.rs"
 name = "day-09"
 path = "day-09/main.rs"
 
+[[bin]]
+name = "day-11"
+path = "day-11/main.rs"
+
 [dependencies]
+itertools = "0.9.0"
 maplit = "1.0.2"
-text_io = "0.1.8"
 regex = "1.4.2"
+text_io = "0.1.8"
